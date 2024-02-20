@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-03-16T23:59:59+8:49
+date: 2024-03-15T23:59:59+8:49
 title: 'Assignment #1'
 pdf: /static_files/assignments/01_assignment.pdf
 attachment: /static_files/assignments/01_assignment.zip
