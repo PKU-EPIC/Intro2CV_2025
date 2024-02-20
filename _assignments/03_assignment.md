@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2024-04-28T23:59:59
+date: 2024-04-19T23:59:59
 title: 'Assignment #3'
 pdf: /static_files/assignments/03_assignment.pdf
 attachment: /static_files/assignments/03_assignment.zip
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2024-05-12T23:59:59
+    date: 2024-05-05T23:59:59
     description: 'Assignment #3 due'
 ---
