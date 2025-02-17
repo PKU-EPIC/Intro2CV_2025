@@ -5,13 +5,13 @@ instructors:
 
 
 teaching_assistants:
-  - name: Mi Yan
-    profile_pic: /_images/pp/miyan_image.png
-    webpage: https://miyandoris.github.io/
+  # - name: Mi Yan
+  #   profile_pic: /_images/pp/miyan_image.png
+  #   webpage: https://miyandoris.github.io/
   
-  - name: Hao Shen
-    profile_pic: /_images/pp/haoshen_image.jpg
-    webpage: https://shen-hhao.github.io/
+  # - name: Hao Shen
+  #   profile_pic: /_images/pp/haoshen_image.jpg
+  #   webpage: https://shen-hhao.github.io/
   
   - name: Yuxing Chen
     profile_pic: /_images/pp/yuxingchen_image.png
