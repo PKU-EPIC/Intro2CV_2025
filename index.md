@@ -4,7 +4,7 @@ layout: home
 
 ## Logistics
 * Time: Wednesday 3:10 - 6:00 PM
-* Location: Room 301, Classroom Building No.2, Peking University
+* Location: Room 102, Classroom Building No.2, Peking University
 
 ## Prerequisite
 * College Calculus
